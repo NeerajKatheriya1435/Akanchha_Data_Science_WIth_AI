@@ -104,4 +104,4 @@ name3="Peter"
 
 # print(5<7 and 8>4 and 3==3)
 # print(5>7 or 8>14 or 3==7)
-print(not(8>6))
+# print(not(8>6))
