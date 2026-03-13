@@ -40,16 +40,16 @@ import os
 
 # Local Variables and global varibales
 
-var1=78
+# var1=78
 
-def addTwoNum():
-    # var1=34
-    global var1
-    var1=23
-    print(var1)
-    print("hello")
+# def addTwoNum():
+#     # var1=34
+#     global var1
+#     var1=23
+#     print(var1)
+#     print("hello")
 
 
-addTwoNum()
+# addTwoNum()
 
-print(var1)
+# print(var1)
